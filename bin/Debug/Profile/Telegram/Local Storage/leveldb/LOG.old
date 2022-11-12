@@ -1,0 +1,9 @@
+2022/10/03-15:14:49.164 338c Reusing MANIFEST C:\Users\LF\Desktop\ToolTele\Profile\Telegram\Local Storage\leveldb/MANIFEST-000001
+2022/10/03-15:14:49.166 338c Recovering log #11
+2022/10/03-15:14:49.186 338c Level-0 table #14: started
+2022/10/03-15:14:49.211 338c Level-0 table #14: 345411 bytes OK
+2022/10/03-15:14:49.213 338c Recovering log #13
+2022/10/03-15:14:49.217 338c Level-0 table #15: started
+2022/10/03-15:14:49.228 338c Level-0 table #15: 156329 bytes OK
+2022/10/03-15:14:49.233 338c Delete type=0 #11
+2022/10/03-15:14:49.234 338c Delete type=0 #13
